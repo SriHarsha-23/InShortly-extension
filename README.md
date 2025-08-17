@@ -33,3 +33,4 @@ This project is licensed under the **MIT License**.
 ## 🔗 Links
 - GitHub Repo: [InShortly-extension](https://github.com/SriHarsha-23/InShortly-extension)  
 - Chrome Web Store: (Coming Soon 🚀)  
+
