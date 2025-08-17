@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "name": "InShortly",
     "version": "1.0",
+    "description": "AI summarizer for web content: brief, bullets, or detailed.",
     "permissions": ["scripting", "storage", "activeTab"],
     "action": {
         "default_popup": "popup.html",
