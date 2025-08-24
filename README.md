@@ -29,8 +29,8 @@ InShortly is a Chrome extension that summarizes web content into **brief**, **bu
 This project is licensed under the **MIT License**.
 
 ---
-
-## 🔗 Links   
-- Chrome Web Store: [InShortly-extension]([InShortly-extension](https://github.com/SriHarsha-23/InShortly-extension))
+  
+## 🔗 Links
+- [Chrome Web Store: InShortly Extension](https://github.com/SriHarsha-23/InShortly-extension)
 
 
