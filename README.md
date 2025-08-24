@@ -31,6 +31,7 @@ This project is licensed under the **MIT License**.
 ---
   
 ## 🔗 Links
-- [Chrome Web Store: InShortly Extension](https://github.com/SriHarsha-23/InShortly-extension)
+- [Chrome Web Store: InShortly Extension](https://chromewebstore.google.com/detail/oifjhfkladfohfncamflkgooceehgbml?utm_source=item-share-cb)
+
 
 
